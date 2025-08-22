@@ -44,6 +44,8 @@ MonoBehaviour:
   - TriggerEvent
   - RPC_Kick
   - RPC_Punch
+  - Dead
+  - SetDestination
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1

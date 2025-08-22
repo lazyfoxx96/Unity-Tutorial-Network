@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bullet
   - CinemachineTarget
+  - Npc
   layers:
   - Default
   - TransparentFX
